@@ -24,11 +24,28 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#48 【建议】希望更换默认下载位置</span>
+                                        <span class="issue">#21 考虑适配MacOS吗？？？</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by cornradio in <span class="repo">leoFitz1024/wallhaven</span></div>
+                                    <div>opened by Bssn520 in <span class="repo">leoFitz1024/wallhaven</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#27 何时支持mac ? </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by gofreehj in <span class="repo">leoFitz1024/wallhaven</span></div>
                                 </div>
                             </section>
                         </div>
@@ -41,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v4.4.1</span>
+                                        <span class="code">v4.4.2</span>
                                         in
                                         <span class="repo">leoFitz1024/wallhaven</span>
                                     </div>
@@ -56,7 +73,7 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Release-v4.4.1</span>
+                                        <span class="bold">Release-v4.4.2</span>
                                         of
                                         <span class="repo">leoFitz1024/wallhaven</span>
                                     </div>
@@ -72,28 +89,11 @@
                                     </svg>
                                     <div class="content">
                                         Closed
-                                        <span class="issue">#15 增加快捷操作:左右切换图片\ESC退出预览</span>
+                                        <span class="issue">#48 【建议】希望更换默认下载位置</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by tuhang in <span class="repo">leoFitz1024/wallhaven</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#42 建议支持多显示器分别设置不同的自动更换规则</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by flyinghail in <span class="repo">leoFitz1024/wallhaven</span></div>
+                                    <div>opened by cornradio in <span class="repo">leoFitz1024/wallhaven</span></div>
                                 </div>
                             </section>
                         </div>
